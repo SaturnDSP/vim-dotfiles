@@ -1,4 +1,5 @@
 " Vim temp files and stuff
+" TODO: enable the numbers in Ex mode!!
 
 nnoremap <leader>r :source $MYVIMRC<CR>:echo "reloaed config files"<CR>
 
@@ -47,4 +48,4 @@ set nowritebackup
 set ttimeoutlen=100
 set wildmenu
 
-colo SaturnTheme
+colo sorbet
